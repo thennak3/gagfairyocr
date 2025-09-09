@@ -2,6 +2,8 @@
 
 This project uses [EasyOCR](https://github.com/JaidedAI/EasyOCR) and Python automation to detect fruit names on screen and automatically send them into another program via AutoHotkey.  
 
+This is only useful for the current fairy event when submitting to the fountain, however the workflow is generic enough to be used for other events in future.
+
 It works on both **GPU (CUDA)** and **CPU-only** systems.  
 
 ---
