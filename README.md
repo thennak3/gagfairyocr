@@ -84,6 +84,10 @@ You’ll need to define screen coordinates for four areas:
    }
   Replace coordinates with values from Window Spy.
 
+  4. **Update file path for python script
+   On line 136 update the path in 'with open(r"D:\Projects\python\fruitocr\next_fruit.txt", "w") as f:' to the same location you cloned the repository to.
+
+
 ## ▶️ Usage
 Run the OCR script:
     python ocr_fsm.py
